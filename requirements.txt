@@ -1,0 +1,8 @@
+numpy
+polars
+yfinance
+matplotlib
+seaborn
+ipykernel
+fredapi
+dotenv
