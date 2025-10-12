@@ -1,2 +1,13 @@
-# MSDS-451-Final
-For use in Northwestern University's MSDS 451: Financial Engineering course.
+# MSDS 451: Final Project
+
+## Overview
+
+TO DO
+
+## File Structure
+
+TO DO
+
+## Set Up
+
+TO DO
