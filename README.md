@@ -19,6 +19,8 @@ This project investigates current large-cap consumer staples ETFs and determines
 ├───project_checkpoint_a.pdf
 ├───project_checkpoint_b.pdf
 ├───project_checkpoint_c.pdf
+├───project_report_final.pdf
+├───project_rpeort_presentation.pdf
 ├───README.md
 └───requirements.txt
 ```
