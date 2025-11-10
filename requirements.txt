@@ -6,3 +6,4 @@ seaborn
 ipykernel
 fredapi
 dotenv
+statsmodels
